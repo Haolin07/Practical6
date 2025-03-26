@@ -1,0 +1,1 @@
+This task is much more complex than the former tasks. It requires more knowledge of Python to finish. Despite hard, I enjoyed this and learned a lot. For example, how to choose a random number, how to draw a dynamic picture, how to change the color of curves, but most important is the thinking method of creating the SIR model.
